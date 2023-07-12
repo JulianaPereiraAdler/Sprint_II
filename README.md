@@ -1,4 +1,4 @@
-# Sprint_II
+## MVP da Sprint II - Gestão Ágil de Projetos e Produtos
 MVP da Sprint de Gestão Ágil de Projetos e Produtos, usando o conhecimento adquirido nas disciplinas Engenharia de Requisitos e Gestão Ágil de Produtos, Gestão Ágil de Projetos e Design e Prototipação da Interface do Usuário.
 
 Por favor, leia os seguintes arquivos:
@@ -12,7 +12,7 @@ Por favor, leia os seguintes arquivos:
 (IV) MVP Sprint II - Parte IV: Este arquivo contém o Protótipos de Interface com o link para o Figma (https://www.figma.com/file/tldtb7Rh9pm2l7X8DRETAv/GTAC---MVP-Sprint-II?type=design&node-id=38%3A24448&mode=design&t=gpcSd8uXb9VPntlu-1).
 
 
-## Contexto
+### Contexto
 A empresa XX é uma gestora de recursos de terceiros independente, especializada na gestão de fundos de investimentos em ações de longo prazo. Fundada em 2008, a empresa possui uma equipe enxuta, composta por 22 colaboradores, incluindo gestores, analistas de investimentos, traders, profissionais de compliance e operações.
 
 A área operacional da empresa desempenha um papel fundamental na eficiência, transparência e conformidade das atividades da gestora. Suas principais responsabilidades incluem a execução das operações de compra e venda de ações, garantindo a liquidação adequada das transações, o controle e custódia dos ativos, a gestão de riscos, a conformidade com regulamentações e leis, o suporte aos gestores do fundo, a transparência para os investidores e a busca por eficiência e controle de custos.
